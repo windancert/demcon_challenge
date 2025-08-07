@@ -12,3 +12,8 @@ In the console run:
 ```
 python run.py
 ```
+
+## Note
+
+No human coding was actually done, all chat
+Vibe for life ;-)
